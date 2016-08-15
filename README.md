@@ -16,4 +16,7 @@ So your code should look like
  HTTP.IncomingMessage.call(this);
  this.method = (options.method || "GET").toUpperCase();
 ```
+
+
 - run REPLAY=record node test.js
+- Set your browser to proxy through localhost:3000
