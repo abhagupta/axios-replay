@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "hapi": "^14.2.0"
+    "axios": "^0.13.1",
+    "hapi": "^14.2.0",
+    "replay": "^2.0.6"
   },
   "devDependencies": {},
   "scripts": {
